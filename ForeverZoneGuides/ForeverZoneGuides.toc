@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Forever Zone Guides
+## Notes: RestedXP leveling guides for WoW Forever's new zones, which RestedXP itself does not cover yet. Riverglades 36-40 and 40-44 for the Horde (group Forever Zone Guides in RestedXP's guide list).
+## Author: Trent
+## Version: 1.0.0
+## OptionalDeps: RXPGuides
+
+Guides.lua

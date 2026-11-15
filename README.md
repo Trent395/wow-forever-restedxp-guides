@@ -12,8 +12,8 @@ Shows up in RestedXP's guide list under the group **Forever Zone Guides**.
 
 | Guide | What it covers |
 |---|---|
-| **36-40 Riverglades** | Rog'mar and the south and west of the zone |
-| **40-44 Riverglades** | Sunnyglade's caves, Bolder'ok, Powderfuse Port, Twilight's Shroud and Krol'dok Stronghold |
+| **36-40 Riverglades** | Getting there (Gadgetzan's Overseas Delivery and the Steamwheedle Port boat, or the Grom'gol and Hammerfall breadcrumbs and the walk in from Kargath or Redridge Pass), then Rog'mar, Meadowsbrook, Farholde's outskirts, Turner's Logging Camp, the Bristle Hills and Sunnyglade |
+| **40-44 Riverglades** | Sunnyglade's caves, Bolder'ok and the Bloodmaster's Ring, Powderfuse Port and the Eastwind Shore, Twilight's Shroud and Krol'dok Stronghold |
 
 - Horde only. An Alliance character never sees these guides.
 - Quest givers and turn-ins have arrows. A few places have no data in any database yet: some

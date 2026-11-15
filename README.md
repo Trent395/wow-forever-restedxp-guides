@@ -40,19 +40,19 @@ It also adds a chat command that works without RestedXP:
 
 ## Install
 
-1. Install **RestedXP** (the free `RXPGuides` addon) if you don't have it.
-2. Download the zip from the [latest release](../../releases/latest). Don't use GitHub's green
-   "Code > Download ZIP" button: it wraps everything in an extra folder.
-3. Extract it into your Forever client's AddOns folder, so that you end up with:
-   ```
-   World of Warcraft\_forever_\Interface\AddOns\ForeverZoneGuides\ForeverZoneGuides.toc
-   World of Warcraft\_forever_\Interface\AddOns\SecretGuides\SecretGuides.toc
-   ```
-   You can install just one of the two folders if that's all you want.
-4. **Restart the game completely.** `/reload` doesn't load a newly added addon.
-5. Open RestedXP's guide list and pick a guide from **Forever Zone Guides** or **Secret Guides**.
+**[Step-by-step install guide](INSTALL.md)**, with where to find the folder, updating and
+troubleshooting. In short:
 
-To update, delete the old folders and extract the new zip the same way.
+1. Install **RestedXP** (the free `RXPGuides` addon) if you don't have it.
+2. Download the zip from the [latest release](../../releases/latest). Don't use the green
+   "Code > Download ZIP" button: it wraps everything in an extra folder.
+3. Open the zip and drag its two folders into `World of Warcraft\_forever_\Interface\AddOns`.
+4. **Exit and restart the game.** `/reload` doesn't load a newly added addon.
+5. Click the scroll icon (**Browse Guides**) on RestedXP's guide window and pick a guide from
+   **Forever Zone Guides** or **Secret Guides**.
+
+There is nothing to paste into RestedXP's Import window. It only takes RestedXP's own guide
+codes, which are locked to one Battle.net account.
 
 ## Accuracy
 
